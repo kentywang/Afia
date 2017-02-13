@@ -8,7 +8,7 @@ Afia is a webapp prototype that gives individuals the power to own and control t
 
 Afia is an extension of that identity system known as Blockchain ID, allowing users to own their personal health records in a decentralized manner and share them with trusted health care providers through its API.
 
-### Sharing Data
+### Securely Sharing Data
 With Afia, users have the ability to share their health records with other users, such as health care providers or family members. Access can be selectively granted such that requesters may only see certain portions of the user's health record, or they may be prohibited from appending additional information to the user's records.
 
 To access a patient's data, health care providers use Afia's API integrated into their proprietary systems to request access to a patient's records using the providers' own Blockstack ID. Once access has been granted by the patient, the API then allows the records to be exported in the industry standard CCR format. Through the API, providers can also append new information to the patient's record. Appending any new data requires a digital signature from the author's Blockstack ID, to allow for verification.
