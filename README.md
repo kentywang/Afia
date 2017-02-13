@@ -1,9 +1,9 @@
 ## Afia
 
-![](https://github.com/kentywang/Afia/blob/master/afia.gif)
-
 ### Decentralized Personal Health Record Application
 Afia is a webapp prototype that gives individuals the power to own and control their personal health records (PHR) and securely share them with health care providers upon request. Afia's API allows users to selectively export health records to providers' proprietary systems in the industry standard CCR format. Trusted providers can append additional information to the person's PHR through signing using their own Blockstack ID, ensuring accountability and allowing future verification. The PHR is encrypted and stored onto existing HIPPA-compliant cloud infrastructures. Access to the information can only be granted and decrypted with the owner's Blockstack ID private key.
+
+![](https://github.com/kentywang/Afia/blob/master/afia.gif)
 
 ### Blockstack and Afia
 [Blockstack](https://blockstack.org/intro) is a decentralized DNS that can be built up on existing blockchains, allowing for unhosted applications that run through user-owned identities.
