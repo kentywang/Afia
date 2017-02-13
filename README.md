@@ -1,4 +1,4 @@
-## Afia ![](https://github.com/kentywang/Afia/blob/master/logo.png)
+## Afia
 
 ![](https://github.com/kentywang/Afia/blob/master/afia.gif)
 
