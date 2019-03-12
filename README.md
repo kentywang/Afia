@@ -17,8 +17,8 @@ To access a patient's data, health care providers use Afia's API integrated into
 
 Users can check the digital signature and ID of the author to ensure that the appended record was added by the trusted individual.
 
-### Pitch Deck and Live Demo
-A brief presentation introducing Afia can be found [here](http://slides.com/aganita/afia#/), and an online prototype of Afia (with annotations) can be found [here](https://invis.io/PXAF8L8YJ).
+### Live Demo
+An online prototype of Afia (with annotations) can be found [here](https://invis.io/PXAF8L8YJ).
 
 ### Credits
 Logo created with: http://logomakr.com
