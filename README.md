@@ -17,8 +17,10 @@ To access a patient's data, health care providers use Afia's API integrated into
 
 Users can check the digital signature and ID of the author to ensure that the appended record was added by the trusted individual.
 
-### Live Demo
-An online prototype of Afia (with annotations) can be found [here](https://invis.io/PXAF8L8YJ).
+### Links
+Blockstack forum post: https://forum.stacks.org/t/recap-of-the-decentralize-the-web-challenge/746
 
 ### Credits
 Logo created with: http://logomakr.com
+
+[Stacks](https://www.stacks.co) (formerly Blockstack)
